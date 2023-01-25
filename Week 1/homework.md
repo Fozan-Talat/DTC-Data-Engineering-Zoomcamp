@@ -160,6 +160,7 @@ After updating the main.tf and variable.tf files run:
 terraform apply
 ```
 
+
 Paste the output of this command into the homework submission form.
 
 
