@@ -3,6 +3,7 @@ import pandas as pd
 from prefect import flow, task
 from prefect_gcp.cloud_storage import GcsBucket
 from random import randint
+from prefect.blocks.notifications import SlackWebhook
 
 
 @task(retries=3)
@@ -55,6 +56,8 @@ def etl_web_to_gcs() -> None:
     df_clean = clean(df)
     path = write_local(df_clean, color, dataset_file)
     write_gcs(path)
+    slack_webhook_block = SlackWebhook.load("slack")
+    slack_webhook_block.notify("Hello from Fozan-Prefect!")
 
 
 if __name__ == "__main__":
