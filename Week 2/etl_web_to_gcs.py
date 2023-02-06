@@ -59,6 +59,6 @@ def etl_web_to_gcs() -> None:
     slack_webhook_block = SlackWebhook.load("slack")
     slack_webhook_block.notify("Hello from Fozan-Prefect!")
 
-
-if __name__ == "__main__":
+    
+    if __name__ == "__main__":
     etl_web_to_gcs()
