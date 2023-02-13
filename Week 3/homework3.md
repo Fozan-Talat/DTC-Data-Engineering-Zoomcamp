@@ -30,7 +30,7 @@ What is the estimated amount of data that will be read when this query is execut
 ```
 > SQL Query
 ```
-SELECT COUNT(*) FROM `original-folio-375016.ny_taxi_data.external_fhv_tripdata`;
+SELECT COUNT(DISTINCT Affiliated_base_number)  FROM `original-folio-375016.ny_taxi_data.fhv_tripdata`;
 ```
 ## Question 3:
 How many records have both a blank (null) PUlocationID and DOlocationID in the entire dataset?
