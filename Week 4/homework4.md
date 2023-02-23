@@ -37,7 +37,7 @@ You will need to complete "Visualising the data" videos, either using [google da
 ```
 > Looker studio dashboard link
 ```
-[https://lookerstudio.google.com/reporting/1833f12a-ee3c-492f-a61e-1b2026b78376](https://lookerstudio.google.com/reporting/1833f12a-ee3c-492f-a61e-1b2026b78376)
+[Looker dashboard](https://lookerstudio.google.com/reporting/1833f12a-ee3c-492f-a61e-1b2026b78376)
 ```
 
 ### Question 3: 
