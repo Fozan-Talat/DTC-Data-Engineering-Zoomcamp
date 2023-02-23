@@ -33,7 +33,7 @@ You will need to complete "Visualising the data" videos, either using [google da
 
 > Answer
 ```
-61648442
+89.9/10.1
 ```
 [Looker dashboard](https://lookerstudio.google.com/reporting/1833f12a-ee3c-492f-a61e-1b2026b78376)
 
