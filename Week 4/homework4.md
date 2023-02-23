@@ -35,8 +35,6 @@ You will need to complete "Visualising the data" videos, either using [google da
 ```
 61648442
 ```
-> Looker studio dashboard link
-
 [Looker dashboard](https://lookerstudio.google.com/reporting/1833f12a-ee3c-492f-a61e-1b2026b78376)
 
 
@@ -98,7 +96,5 @@ Create a dashboard with some tiles that you find interesting to explore the data
 ```
 January
 ```
-> Looker studio dashboard link
-```
-(https://lookerstudio.google.com/reporting/5a5a3a0d-177a-4909-afd8-9d1b004c1ab5)
-```
+[Looker dashboard](https://lookerstudio.google.com/reporting/5a5a3a0d-177a-4909-afd8-9d1b004c1ab5)
+
