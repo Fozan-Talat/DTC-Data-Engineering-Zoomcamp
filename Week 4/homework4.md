@@ -78,7 +78,7 @@ Run it via the CLI without limits (is_test_run: false) and filter records with p
 ```
 > SQL Query
 ```
-SELECT COUNT(*) FROM `original-folio-375016.production.fact_fhv_tripdata`
+SELECT COUNT(*) FROM `original-folio-375016.production.fact_fhv_trips`
 ```
 
 ### Question 5: 
